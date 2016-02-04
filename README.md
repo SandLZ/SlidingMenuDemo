@@ -1,5 +1,8 @@
 # SlidingMenuDemo
 ## 滑动侧边栏
+####效果
+
+![](http://i4.tietuku.com/b032b76b008334e8.gif)
 
 #### USAGE
 
